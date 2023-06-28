@@ -9,15 +9,25 @@ By proactively identifying these customers, the telecommunication company can ta
 The dataset used for this project gathred from Kaggle and contains a set of customer attributes, usage patterns, and churn status. It consists of the following key features:
 
 CustomerID: this represents the unique id for each ustomer.
+
 Age: this represents the age of the corresponding customers.
+
 Gender: gender of the customer
-tenure: this is time or period that the customer hold with the same telecommunication service provider.
+
+tenure: this is time or period that the customer hold with the same telecommunication service provider
+
 usage frequency: this feature represnts the how frequently customer using the same service proveider.
+
 payment delay: how much time thtat the customer has been delaying to pay the bill amount.
+
 subscription type: represnts the type of subscription that the customer using.
+
 contract length: time period that the customer taking the service.
+
 total sspend : the total amount of money spend by the customer.
+
 last interaction: feature that represnts the last time that the customer having the utility of the service.
+
 Churn: Target variable indicating whether a customer has churned 1 or not as 0.
 
 # Data Preparation and  data mining:
