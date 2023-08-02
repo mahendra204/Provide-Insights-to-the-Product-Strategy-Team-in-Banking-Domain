@@ -1,4 +1,4 @@
-# Customer_Churn_Prediction - Telecommunication company
+# Telecom Customer_Churn_Prediction - Telecommunication company
 This project focuses on predicting customer churn in a telecommunication industry using machine learning algorithms. 
 
 # Problem Statement
